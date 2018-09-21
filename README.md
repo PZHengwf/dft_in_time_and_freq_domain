@@ -1,0 +1,2 @@
+# dft_in_time_and_freq_domain
+DFT性质的仿真，时域特性与频域特性MATLAB仿真
